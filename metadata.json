@@ -1,0 +1,7 @@
+{
+  "name": "Telecom Egypt Inspection System",
+  "description": "A secure, role-based inspection management frontend for Telecom Egypt (TE). Features geolocation tracking on login, digitized TDM/FTTH forms, and admin dashboards using TE corporate identity. (Frontend Implementation)",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
